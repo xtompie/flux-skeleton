@@ -1,0 +1,20 @@
+{
+    "name": "xtompie/flux-skeleton",
+    "description": "Skeleton for xtompie/flux",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xtompie\\FluxSkeleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomasz Pielczyk",
+            "email": "tomasz.pielczyk@gmail.com"
+        }
+    ],
+    "require": {
+        "xtompie/flux": "^0.1.0"
+    }
+}
