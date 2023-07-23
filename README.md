@@ -4,4 +4,4 @@
 
 2. modify `flux.php`
 
-3. `php flux.php`
+3. `php flux.php runall`

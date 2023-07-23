@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "xtompie/flux": "^0.1.0"
+        "xtompie/flux": "^0.2.0"
     }
 }
